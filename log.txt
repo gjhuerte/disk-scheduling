@@ -1,0 +1,48 @@
+
+Changelog:
+v.2.2
+-Limiter strengthen
+
+v2.1
+-Compiling error fixed
+
+v2.0 Beta
+-Limiter
+    -   Prevents the users from inputting wrong values by checking everything the user inputs 
+
+v1.2
+-Display bug fixed
+-SSTF bug fixed
+
+v1.1
+-C-SCAN bug fixed
+
+v 1.0 Alpha
+-SSTF computation fixed
+
+v 0.6
+- SSTF bug fixed
+- SCAN bug fixed
+
+v 0.5
+- Computation bugs fixed
+- SSTF has minor bugs
+- GUI improved ( added more options in viewing saved arrays ) 
+
+v 0.4
+- Repeating number bug fixed
+- Graphical bugs fixed
+- Stable condition
+
+v 0.3
+- FCFS, LOOK, SCAN diagram fixed
+- Algorithm bug fixed
+
+v 0.2
+- Graphical User made simplier
+- Bug fix
+- Diagram started
+
+v 0.1 
+- Algorithm added
+- Graphical User Interface Added
